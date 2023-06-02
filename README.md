@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">I'm Arnniel Kheneth D. Pacris from Calamba City, Philippines.<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Arnniel Kheneth D. Pacris, from Calamba City, Philippines.<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
 ###
 <h1></h1>
