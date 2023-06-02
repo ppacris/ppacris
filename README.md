@@ -1,13 +1,4 @@
 ###
-`Watch snake eat my little contributions.`
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ppacris/ppacris/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ppacris/ppacris/output/github-contribution-grid-snake.svg">
-</picture>
-
-
-
-###
 
 <div align="center">
   <img height="200" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
@@ -107,6 +98,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ppacris&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=ppacris&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
+###
+
+<h1></h1>
+Watch snake eat my little contributions xd.
+
+###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ppacris/ppacris/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ppacris/ppacris/output/github-contribution-grid-snake.svg">
+</picture>
 
 ###
 
