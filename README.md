@@ -1,6 +1,8 @@
+###
+`Watch snake eat my little contributions.`
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ppacris/ppacris/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ppacris/ppacris/output/github-contribution-grid-snake.svg">
 </picture>
 
 
@@ -38,20 +40,20 @@
 </div>
 
 ###
-
-<h1 align="center">Hey there! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="35px" alt="👋"></h1>
+<h1></h1>
+<h3 align="center">Hey there! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="40px" alt="👋"></h3>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  About Me:</h3>
 
 ###
 
 <p align="left">I'm Arnniel Kheneth D. Pacris from Calamba City, Philippines.<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
 ###
-
-<h2 align="left">🛠 Language and tools</h2>
+<h1></h1>
+<h3 align="left">🛠 Language and tools:</h3>
 
 ###
 
@@ -95,7 +97,8 @@
 
 ###
 
-<h2 align="left">🔥   My Stats :</h2>
+<h1></h1>
+<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
