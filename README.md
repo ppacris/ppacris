@@ -40,17 +40,15 @@
 
 ###
 
-<p align="left">Hi there, I'm Arnniel Kheneth D. Pacris! 👋
+<p align="left">Hello, I'm Arnniel Kheneth D. Pacris! 👋
 
-I'm a computer science graduate from Calamba City, Philippines.
+I graduated with a computer science degree in 2023 from Calamba City, Philippines. 
 
-During my studies, I delved deep into the world of programming and software development, with a keen interest in the back-end aspects of web development. I have honed my skills in PHP, crafting efficient and secure server-side code to power web applications.
+Specializing in back-end web development, I excel in crafting efficient and secure server-side code using PHP. With hands-on experience in jQuery AJAX, I create dynamic and responsive user experiences on the client side.
 
-Additionally, I have hands-on experience with jQuery AJAX, a powerful tool for creating interactive and responsive user experiences on the client side. This combination of server-side expertise and client-side proficiency allows me to deliver seamless and efficient web solutions.
+Passionate about using technology to drive innovation, I'm dedicated to developing scalable and secure web applications that provide exceptional user experiences.
 
-I'm passionate about leveraging technology to drive innovation and solve real-world challenges. As a back-end web developer, I'm dedicated to crafting efficient, scalable, and secure applications that provide exceptional user experiences.
-
-Let's shape the future together through technology! 🚀
+Let's shape the future through technology! 🚀
 <br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
 ###
