@@ -49,7 +49,7 @@ Specializing in back-end web development, I excel in crafting efficient and secu
 Passionate about using technology to drive innovation, I'm dedicated to developing scalable and secure web applications that provide exceptional user experiences.
 
 Let's shape the future through technology! 🚀
-<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<br><br>- 🔭 I’m working as IT admin at CGC.<br>- 📚 I'm currently learning Networking.<br>- ⚡ In my free time I develop small projects for job hunting like my online portfolio.</p>
 
 ###
 <h1></h1>
